@@ -12,7 +12,7 @@ I then wanted to see the YOY change of accidents involving injuries or death.
 
 ![image](https://github.com/guostan123/business/blob/main/injuries_death_per_year_line.png)
 
-It's immportant to note that the data from 2021 only includes the months from Januuary to the end of September since 2021 has not conlcluded yet. So I'm expecting every year to have an increase in traffic accidents when compared to the previous year.
+It's important to note that the data from 2021 only includes the months from Januuary to the end of September since 2021 has not conlcluded yet. So I'm expecting to see 2021 end with an even higher number of traffic accidents than 2020.
 
 Then I wanted to see which boroughs made up the majority of traffic accidents.
 

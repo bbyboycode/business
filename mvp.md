@@ -1,6 +1,6 @@
 # Improving Traffic Conditions Around NYC
 
-The goal of this project is to analyze New York City traffic data prior to the pandemic (2018 - 2019) and comparing it to post-pandmeic times (2020-2021). Recent findings have shown that traffic accidents have increased since the pandmeic started. I wanted to use insights and findings drawn from my analysis to help the New York City Department of Transportation (NYCDOT) decide which areas around the city that they should focus their efforts on in order to reduce the number of traffic accidents.
+The goal of this project is to analyze New York City traffic data prior to the pandemic (2018 - 2019) and comparing it to post-pandmeic times (2020-2021). Recent findings have shown that traffic accidents in NYC have increased since the pandemic started. I wanted to use insights and findings drawn from my analysis to help the New York City Department of Transportation (NYCDOT) decide which areas around the city that they should focus their efforts on in order to reduce the number of traffic accidents.
 
 I first wanted to verify whether or not traffic accidents actaully increased after the pandemic started.
 

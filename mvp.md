@@ -22,4 +22,8 @@ Then I wanted to see which boroughs made up the majority of traffic accidents.
 
 I found that Manhattan had the most dramatic decrease in traffic incidents. This can be attributed to the fact that a large chunk of traffic accidents in Manhattan involves cyclists (food delivery personnel) and since many offices were closed and people moved out of the city when the pandemic started, the volume of food delvieries went down drastically.
 
-I then used Tableau to get a geographic visualization of which parts of each borough has a large jump in the amount of traffic accidents and found that a large swaths of Brooklyn and the Bronx were responsible for the large increases in traffic accidents.
+I then used Tableau to get a geographic visualization of which parts of each borough had a large jump in the amount of traffic accidents and found that a large swaths of Brooklyn and the Bronx were responsible for the large increases in traffic accidents.
+
+![image](https://github.com/guostan123/business/blob/main/tableau_pre_pandemic.png)
+
+![image](https://github.com/guostan123/business/blob/main/tableau_post_pandemic.png)

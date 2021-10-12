@@ -1,7 +1,7 @@
 # Question and Need
 One of the major focal points of Mayor Bill de Blasio's career as New York City mayor is to reduce the occurence of traffic accidents on city roads. Vision Zero is de Blasio's traffic initiative in an attempt to eliminate all traffic fatalities and severe injuries. Despite heavy investment in public awareness campaigns towards Vision Zero, traffic accidents and fatalities have been at an all time high.
 
-Since the pandemic started, statistic after statistic has show that Vision Zero has been a total failure as more people took up cycling and walking. Even the de Blasio administration has acknowledged the shortcomings of Vision Zero.
+Since the pandemic started, statistic after statistic has show that Vision Zero has been a total failure as more people took up cycling and walking. Even the de Blasio administration has acknowledged the shortcomings of Vision Zero. The city is on pace to record its highest number of traffic deaths in a calendar year since 2014, the year de Blasio took office and launched his Vision Zero program with the goal of reducing fatal car crashes.
 
 The client, the New York City Department of Transportation (NYCDOT) is the main organization responsbile for rolling out Vision Zero. By gathering data on the occurences of traffic accidents and then visualizing them, I can inform the NYCDOT on where they should focus their efforts and if applicable, install new infrastructure. This will hopefully help reduce the number of incidents around the city's most at-risk areas.
 
